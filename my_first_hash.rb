@@ -6,7 +6,7 @@ def my_hash
     "Bird" => "chirp"
   }
 
-  puts my_
+  puts my_hash
 
 end
 
